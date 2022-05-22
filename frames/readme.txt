@@ -1,0 +1,1 @@
+This folder contains the frames for all of the animations.
