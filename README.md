@@ -1,7 +1,7 @@
-# Animation Frames
-This repository contains frames for any animation that is made.
+# Animation Assets
+This repository contains assets for any animation that is made.
 
 More animations could be made as we go along!
 
 # To-Dos
-* [ ] Finish "The Call". **[Partial]**
+* [X] Finish "The Call". **[Complete]**
